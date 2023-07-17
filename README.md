@@ -2,7 +2,6 @@
 
 <div id="header">
   <h1>
-    Used-car-Price-Predictor<p></p><p></p><p></p>
     <img src="Screenshots\priceprediction_webpage.jpg" alt="price predictor screenshot" width="1000" align="center"/>
   </h1>
 </div>
@@ -23,6 +22,8 @@ A prediction pipeline is created using flask web app. Further I deployed my mach
 2. Navigate to the project directory: `cd <repo>`
 3. Run the script using the command: `python app.py`
 4. Once the application is running.
+
     Use default port of 127.0.0.1.5000 - for home page
+    
     127.0.0.1.5000/predictprice - for predictor page
 
